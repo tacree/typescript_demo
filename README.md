@@ -24,7 +24,7 @@ This demo goes through the process of taking a project and adding Typescript to 
 tools that are going to be used:
 
 - TSD: is the Typescript Definition Manager
-- grunt-typescript: The grunt typescript plugin to automate builds
+- grunt-ts: The grunt typescript plugin to automate builds
 
 ## Videos on Typescript
 * [Anders Heijlsberg presentation:](https://www.youtube.com/watch?v=Ut694dsIa8w)
